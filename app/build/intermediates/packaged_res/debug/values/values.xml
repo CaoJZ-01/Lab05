@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <string name="app_name">ProductCatalog</string>
+    <string name="gcm_defaultSenderId" translatable="false">215395313435</string>
+    <string name="google_api_key" translatable="false">AIzaSyBhjt8kN2nE0CQdmuyB1z13mqv18_oWRdw</string>
+    <string name="google_app_id" translatable="false">1:215395313435:android:0558f1f84d9bf6d90095be</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBhjt8kN2nE0CQdmuyB1z13mqv18_oWRdw</string>
+    <string name="google_storage_bucket" translatable="false">lab05-1dbbd.appspot.com</string>
+    <string name="project_id" translatable="false">lab05-1dbbd</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+</resources>

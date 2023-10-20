@@ -1,0 +1,28 @@
+R_DEF: Internal format may change without notice
+local
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
+id activity_main
+id addButton
+id buttonDeleteProduct
+id buttonUpdateProduct
+id editTextName
+id editTextPrice
+id listViewProducts
+id textView
+id textViewName
+id textViewPrice
+layout activity_main
+layout layout_product_list
+layout update_dialog
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string gcm_defaultSenderId
+string google_api_key
+string google_app_id
+string google_crash_reporting_api_key
+string google_storage_bucket
+string project_id
+style AppTheme
