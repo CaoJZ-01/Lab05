@@ -1,6 +1,0 @@
-com.example.lab05.test.app-annotation-experimental-1.3.0-0 C:\Users\86180\.gradle\caches\transforms-3\4b5c81cd73189b1e46b233fa54f04566\transformed\annotation-experimental-1.3.0\res
-com.example.lab05.test.app-core-1.5.0-1 C:\Users\86180\.gradle\caches\transforms-3\d9fe250582dbd64adbadf77a82fe6190\transformed\core-1.5.0\res
-com.example.lab05.test.app-androidTest-2 E:\Program\Android_Studio_workspace\Lab05\app\build\generated\res\resValues\androidTest\debug
-com.example.lab05.test.app-mergeDebugAndroidTestResources-3 E:\Program\Android_Studio_workspace\Lab05\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
-com.example.lab05.test.app-mergeDebugAndroidTestResources-4 E:\Program\Android_Studio_workspace\Lab05\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
-com.example.lab05.test.app-merged_res-5 E:\Program\Android_Studio_workspace\Lab05\app\build\intermediates\merged_res\debugAndroidTest
